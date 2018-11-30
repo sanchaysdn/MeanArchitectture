@@ -1,8 +1,8 @@
 {
   "name": "server",
-  "version": "0.0.0",
-  "description": "swim app backend",
-  "author": "'dev name'",
+  "version": "1.0.0",
+  "description": "Mean Architecture",
+  "author": "'Sanchay Shukla & Amit Kumar'",
   "license": "MIT",
   "scripts": {
     "format": "prettier --write \"**/*.ts\"",
